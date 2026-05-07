@@ -43,31 +43,31 @@
 ✅ Error Output (×2)   → ETL_Error_Log for failed rows
 ```
 
-![ETL Package](Screenshots/ETL.png)
+ ![ETL Package](ETL.png)
 
 ---
 
 ## 📊 Power BI Dashboards
 
 ### 🏠 Home Page
-![Home](Screenshots/Home.png)
+![Home](Home.png)
 
 ### 👨‍⚕️ Doctors Dashboard
-![Doctors](Screenshots/Doctor.png)
+ ![Doctor](Doctor.png)
 
 - SarahTaylor → highest appointments (29) & revenue (83K)
 - Central Hospital handles **42%** of all appointments
 
 ### 👥 Patients Dashboard
-![Patients](Screenshots/Patient.png)
+![Patient](Patient.png)
 
 - Total: **50 patients** | Avg Age: **45.98**
 - Gender: **62% Male** / **38% Female**
 - MedCare Plus = most used insurance (36%)
 
 ### 💰 Financial & Operations Dashboard
-![Financial](Screenshots/Financial.png)
-
+ ![Financial](Financial.png)
+ 
 - Total Revenue: **551.25K**
 - Chemotherapy = highest revenue (129K)
 - Peak month: **May (64K)**
@@ -108,8 +108,19 @@
 
 ---
 
-## 👤 Author
+## 👥 Team Members
 
-**Mohamed Ayman** · [![GitHub](https://img.shields.io/badge/GitHub-Moayman12-181717?style=flat&logo=github)](https://github.com/Moayman12)
+| Name |
+|------|
+| Mohamed Fathy Seer Gomaa |
+| Mohamed Ayman Hussein Mahmoud |
+| Amany Ashour Saad |
 
+## 🎓 Course Instructor
+
+| Role | Name |
+|------|------|
+| Teaching Assistant | Mohamed Ahmed Sofy Mohamed |
+
+---
 *DSS Final Project — 2026*
