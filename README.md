@@ -112,8 +112,8 @@
 
 | Name |
 |------|
-| Mohamed Fathy Seer Gomaa |
-| Mohamed Ayman Hussein Mahmoud |
+| Mohamed Ayman Hussien Mahmoud |
+|  Mohamed Fathy Sayed Gomaa  |
 | Amany Ashour Saad |
 
 ## 🎓 Course Instructor
